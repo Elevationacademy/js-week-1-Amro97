@@ -1,0 +1,42 @@
+#bar {
+    background-color: black;
+    display: inline-block;
+  }
+  
+  #mid {
+    background-color: darkred;
+    height: 5px;
+    width: 385px;
+  }
+  
+  .block {
+    background-color: #66320E;
+    width: 90px;
+    height: 90px;
+    margin: 3px;
+  }
+  
+  #b1 {
+    float: right;
+  }
+  
+  #b2 {
+    float: right;
+  }
+  
+  #b3 {
+    float: right;
+  }
+  
+  #b5 {
+    float: left;
+  }
+  
+  #b6 {
+    float: left;
+  }
+  
+  #b7 {
+    float: left;
+  }
+  
